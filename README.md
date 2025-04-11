@@ -67,5 +67,3 @@ Key Insights from the Dashboard
 ✔ World population comparison helps put India’s population dynamics into a global context.
 
 ✔ Fertility rate and migration patterns contribute significantly to demographic changes
-
-![Image](https://github.com/user-attachments/assets/31edca14-b5d4-4208-ab58-7b6603273b7b)
